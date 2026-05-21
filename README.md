@@ -43,18 +43,6 @@ Mobile app for tracking and building daily habits.
 
 ---
 
-## 📊 GitHub Stats
-
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambrianwalker&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambrianwalker&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/brian2025  
